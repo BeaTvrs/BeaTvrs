@@ -101,5 +101,8 @@
 
 <br />
 
+<div align="center"> <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExanY3MnQydXNmemJldTczbGEyeGJxeHM0YThiOGFpOHJydGJlMWNhdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/j9MbEMN5MzXmU/giphy.gif" align="center" height="" width="300"/>
+</div> 
+
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
