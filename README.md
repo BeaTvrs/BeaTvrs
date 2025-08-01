@@ -1,13 +1,16 @@
 <div align="center">
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExemh1N3NyY29xYnJwa3hwYjR2bTVjM2FscG55ZDhtaHNmdHA1dWV0NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rp4Ixm4mwRvJ6/giphy.gif" align="center" height="" width="300" />
 </div>  
-  
+
+<br/> <br/>  
 
 ### <div align="center">Hi 👋, I'm Beatriz</div>  
   
+<br/>  
 
 <div align="center">A new frontend developer from Recife, Brasil!</div>  
-  
+
+<br/>    
 
 - 🔭 I’m currently working on my new skills.  
   
@@ -24,6 +27,9 @@
 <br/>  
 
 ##  My Skill Set  
+
+<br/>  <br/>  
+
 <div align="center">
 <table><tr><td valign="top" width="33%">
 </div>
@@ -57,6 +63,9 @@
 
 
 ## Connect with me  
+
+<br/> 
+
 <div align="center">
 <a href="https://github.com/BeaTvrs" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -70,21 +79,18 @@
 </div>  
   
 
-<br/>  
+<br/> 
 
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeaTvrs&hide_border=true&layout=compact" align="center" /></div>  
 
-<br/>  
-
-
-## Recent Blog Posts  
-  
+<br/>    
 
 <br/>  
 
-  
+<div align="center"> <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExanY3MnQydXNmemJldTczbGEyeGJxeHM0YThiOGFpOHJydGJlMWNhdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/j9MbEMN5MzXmU/giphy.gif" align="center" height="" width="300"/>
+</div> 
 
 <br/>  
 
@@ -92,18 +98,5 @@
 <img src="https://komarev.com/ghpvc/?username=BeaTvrs&&style=flat-square" align="center" />
 </div>  
   
-
-<br/>  
-
-  
-
-<br/>  
-
-
-<br />
-
-<div align="center"> <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExanY3MnQydXNmemJldTczbGEyeGJxeHM0YThiOGFpOHJydGJlMWNhdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/j9MbEMN5MzXmU/giphy.gif" align="center" height="" width="300"/>
-</div> 
-
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
