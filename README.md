@@ -82,6 +82,12 @@
 <br/>
 
 <!--START_SECTION:waka-->
+
+```txt
+CSS    56 mins         █████████████████░░░░░░░░   68.58 %
+HTML   26 mins         ████████░░░░░░░░░░░░░░░░░   31.42 %
+```
+
 <!--END_SECTION:waka-->
 
 <br/> 
